@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7c4c3b8-b8d6-4965-a38d-691c96c382d9" name="Default Changelist" comment="" />
+    <list default="true" id="e7c4c3b8-b8d6-4965-a38d-691c96c382d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +21,6 @@
               <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#94#102#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -28,7 +29,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Collections.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="84116">
               <caret line="5399" selection-start-line="5399" selection-end-line="5399" />
             </state>
           </provider>
@@ -37,16 +38,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PathParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="425">
               <caret line="60" selection-start-line="60" selection-end-line="60" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#306#312#0" expanded="true" />
-                <element signature="e#375#381#0" expanded="true" />
                 <element signature="method#getAudioInfo#0;class#PathParser#0" />
                 <element signature="method#getAllFilesInDirectory#0;class#PathParser#0" />
                 <element signature="method#getExtension#0;class#PathParser#0" />
-                <marker date="1553442454961" expanded="false" signature="2619:2992" ph="..." />
               </folding>
             </state>
           </provider>
@@ -55,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Catalog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="425">
               <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -64,7 +62,6 @@
                 <element signature="method#findAllSameAudios#0;class#Catalog#0" />
                 <element signature="method#findAllEqualHashCodesAudios#0;class#Catalog#0" />
                 <element signature="method#logAllSameAudio#0;class#Catalog#0" />
-                <element signature="e#5738#6397#1" />
                 <element signature="method#logEqualHashCodesAudios#0;class#Catalog#0" />
                 <element signature="method#describeForHtml#0;class#Catalog#0" />
               </folding>
@@ -80,6 +77,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -103,46 +103,15 @@
     <option name="width" value="1612" />
     <option name="height" value="834" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,7 +170,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25586355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2585288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -298,55 +267,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mylog.2019-03-24.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2629" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mylog.2019-03-24.log" />
     <entry file="file://$PROJECT_DIR$/exit.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8453" />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="5399" selection-start-line="5399" selection-end-line="5399" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PathParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#306#312#0" expanded="true" />
-            <element signature="e#375#381#0" expanded="true" />
-            <element signature="method#getAudioInfo#0;class#PathParser#0" />
-            <element signature="method#getAllFilesInDirectory#0;class#PathParser#0" />
-            <element signature="method#getExtension#0;class#PathParser#0" />
-            <marker date="1553442454961" expanded="false" signature="2619:2992" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Catalog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Catalog#0;class#Catalog#0" />
-            <element signature="method#createCatalog#1;class#Catalog#0" />
-            <element signature="method#findAllSameAudios#0;class#Catalog#0" />
-            <element signature="method#findAllEqualHashCodesAudios#0;class#Catalog#0" />
-            <element signature="method#logAllSameAudio#0;class#Catalog#0" />
-            <element signature="e#5738#6397#1" />
-            <element signature="method#logEqualHashCodesAudios#0;class#Catalog#0" />
-            <element signature="method#describeForHtml#0;class#Catalog#0" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
@@ -356,6 +280,43 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#94#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84116">
+          <caret line="5399" selection-start-line="5399" selection-end-line="5399" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PathParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getAudioInfo#0;class#PathParser#0" />
+            <element signature="method#getAllFilesInDirectory#0;class#PathParser#0" />
+            <element signature="method#getExtension#0;class#PathParser#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Catalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Catalog#0;class#Catalog#0" />
+            <element signature="method#createCatalog#1;class#Catalog#0" />
+            <element signature="method#findAllSameAudios#0;class#Catalog#0" />
+            <element signature="method#findAllEqualHashCodesAudios#0;class#Catalog#0" />
+            <element signature="method#logAllSameAudio#0;class#Catalog#0" />
+            <element signature="method#logEqualHashCodesAudios#0;class#Catalog#0" />
+            <element signature="method#describeForHtml#0;class#Catalog#0" />
           </folding>
         </state>
       </provider>
